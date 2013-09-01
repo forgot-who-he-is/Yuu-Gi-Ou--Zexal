@@ -1,0 +1,333 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+Last Style Storage: 5D's
+Audio File: ?video
+Video File: C:\ZeXal\[Zero-Raws] Yu-Gi-Oh! Zexal - 48 (TX 1280x720 x264 AAC).mp4
+Video Aspect Ratio: 0
+Video Zoom: 5
+Video Position: 35113
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,42,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,40,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.19,0:00:04.19,Default,,0000,0000,0000,,{\pos(664,538)\i1}Due to the power of the Crest,\N Yuma not only has lost his 'Bring it to 'Em',
+Dialogue: 0,0:00:04.76,0:00:08.47,Default,,0000,0000,0000,,{\pos(582,546)\i1}but also his fighting spirit and challenger's determination to never give up!
+Dialogue: 0,0:00:09.57,0:00:11.80,Default,,0000,0000,0000,,{\i1\pos(643,526)}Yuma, please believe in your power!
+Dialogue: 0,0:00:12.53,0:00:14.52,Default,,0000,0000,0000,,{\i1}Believe in your bond with your friends!
+Dialogue: 0,0:00:17.37,0:00:18.45,Default,,0000,0000,0000,,Yuma...
+Dialogue: 0,0:00:22.22,0:00:24.14,Default,,0000,0000,0000,,Yuma!!
+Dialogue: 0,0:00:31.89,0:00:35.23,Default,,0000,0000,0000,,You don't even have any strength left for battle, Yuma?
+Dialogue: 0,0:00:36.26,0:00:37.79,Default,,0000,0000,0000,,So... so scary...
+Dialogue: 0,0:00:39.11,0:00:40.26,Default,,0000,0000,0000,,So scary...!
+Dialogue: 0,0:00:40.81,0:00:44.08,Default,,0000,0000,0000,,I set one card, and end my turn!
+Dialogue: 0,0:00:44.59,0:00:47.10,Default,,0000,0000,0000,,Come, come at me with all you've got, Yuma!
+Dialogue: 0,0:00:47.70,0:00:49.65,Default,,0000,0000,0000,,No... I don't wanna!
+Dialogue: 0,0:00:50.35,0:00:53.91,Default,,0000,0000,0000,,Why should I have to battle with those monsters anyway?
+Dialogue: 0,0:00:54.58,0:00:55.45,Default,,0000,0000,0000,,What just happened?
+Dialogue: 0,0:00:55.91,0:00:57.14,Default,,0000,0000,0000,,Something is strange...
+Dialogue: 0,0:00:57.37,0:00:58.32,Default,,0000,0000,0000,,Yuma-{\i1}kun{\i0}!
+Dialogue: 0,0:00:59.33,0:01:02.02,Default,,0000,0000,0000,,What are you doing? It's your turn!
+Dialogue: 0,0:01:02.58,0:01:05.60,Default,,0000,0000,0000,,Hey, Yuma, draw your card! Hurry up and draw your card!
+Dialogue: 0,0:01:06.37,0:01:09.20,Default,,0000,0000,0000,,My... my turn...
+Dialogue: 0,0:01:14.47,0:01:15.07,Default,,0000,0000,0000,,Draw.
+Dialogue: 0,0:01:17.53,0:01:18.14,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:01:19.30,0:01:19.98,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:01:21.27,0:01:21.75,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:01:22.44,0:01:22.93,Default,,0000,0000,0000,,The duel...
+Dialogue: 0,0:01:26.80,0:01:28.28,Default,,0000,0000,0000,,I'll... surrender the duel.
+Dialogue: 0,0:01:30.54,0:01:33.21,Default,,0000,0000,0000,,{\i1}As I get closer, I stretch my hand out
+Dialogue: 0,0:01:33.21,0:01:36.26,Default,,0000,0000,0000,,{\i1}towards that shining light leading towards tomorrow
+Dialogue: 0,0:01:36.43,0:01:43.52,Default,,0000,0000,0000,,{\i1}I dream of a world that expands from my feet.
+Dialogue: 0,0:01:47.27,0:01:52.78,Default,,0000,0000,0000,,{\i1}I haven't a clue of where things like dreams and hopes are at.
+Dialogue: 0,0:01:52.78,0:01:57.28,Default,,0000,0000,0000,,{\i1}Even if I run looking for it, I still can't seem to find it.
+Dialogue: 0,0:01:58.24,0:02:03.74,Default,,0000,0000,0000,,{\i1}I wonder if I have fallen into a gap of truth and lies.
+Dialogue: 0,0:02:03.74,0:02:08.54,Default,,0000,0000,0000,,{\i1}Even so, our grand tale has yet to begin.
+Dialogue: 0,0:02:08.96,0:02:14.21,Default,,0000,0000,0000,,{\i1}Let's move on towards tomorrow, \Neven if our road begins to fall apart.
+Dialogue: 0,0:02:14.21,0:02:19.47,Default,,0000,0000,0000,,{\i1}I will jump forward, before all my\N strength completely drains.
+Dialogue: 0,0:02:19.89,0:02:22.35,Default,,0000,0000,0000,,{\i1}The closer I get, the further it becomes,
+Dialogue: 0,0:02:22.47,0:02:25.64,Default,,0000,0000,0000,,{\i1}that truth that I must seize.
+Dialogue: 0,0:02:25.64,0:02:30.81,Default,,0000,0000,0000,,{\i1}It's to find hope that we desire from a future unseen.
+Dialogue: 0,0:02:30.81,0:02:33.40,Default,,0000,0000,0000,,{\i1}With a heart stronger than anyone else,
+Dialogue: 0,0:02:33.61,0:02:36.57,Default,,0000,0000,0000,,{\i1}I'll learn to keep running up.
+Dialogue: 0,0:02:36.90,0:02:42.12,Default,,0000,0000,0000,,{\i1}With the strength to win any battle, \Ndespite just how weak I am,
+Dialogue: 0,0:02:42.62,0:02:44.62,Default,,0000,0000,0000,,{\i1}My purpose is to find,
+Dialogue: 0,0:02:44.62,0:02:47.62,Default,,0000,0000,0000,,{\i1}with these invaluable friends of mine,
+Dialogue: 0,0:02:47.62,0:02:54.42,Default,,0000,0000,0000,,{\i1}The future of the world expanding\N from my feet with my own eyes.
+Dialogue: 0,0:03:13.04,0:03:17.75,Default,,0000,0000,0000,,{\pos(416,488)}"Number 48: Yuma Gives Up!?\N The Stolen "Bring It To 'Em!""
+Dialogue: 0,0:03:14.59,0:03:17.77,Default,,0000,0000,0000,,I can't believe you would act this cowardly after losing your 'Bring it to 'Em'!
+Dialogue: 0,0:03:18.24,0:03:19.73,Default,,0000,0000,0000,,Huh? The 'Bring it to 'Em'?
+Dialogue: 0,0:03:20.05,0:03:21.02,Default,,0000,0000,0000,,What's going on here?
+Dialogue: 0,0:03:21.78,0:03:25.05,Default,,0000,0000,0000,,{\pos(637,517)}Yuma's 'Bring it to 'Em' and Astral were all sealed.
+Dialogue: 0,0:03:27.40,0:03:28.60,Default,,0000,0000,0000,,{\pos(635,510)}See for yourself!
+Dialogue: 0,0:03:34.62,0:03:35.53,Default,,0000,0000,0000,,Astral?!
+Dialogue: 0,0:03:36.17,0:03:37.44,Default,,0000,0000,0000,,He's really over there right now!
+Dialogue: 0,0:03:38.27,0:03:42.46,Default,,0000,0000,0000,,Yuma only has dread left, after losing the 'Bring it to 'Em' and Astral.
+Dialogue: 0,0:03:43.19,0:03:44.09,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:03:44.57,0:03:46.01,Default,,0000,0000,0000,,That's dirty, you jerk!
+Dialogue: 0,0:03:46.38,0:03:48.15,Default,,0000,0000,0000,,That's right, that's right!
+Dialogue: 0,0:03:48.20,0:03:49.58,Default,,0000,0000,0000,,That's just too much!
+Dialogue: 0,0:03:50.96,0:03:52.42,Default,,0000,0000,0000,,Say what you like!
+Dialogue: 0,0:03:52.93,0:03:56.22,Default,,0000,0000,0000,,Yuma, unfortunately I won't acknowledge your surrender!
+Dialogue: 0,0:03:56.72,0:03:59.75,Default,,0000,0000,0000,,I will defeat you for good, and seize everything from you!
+Dialogue: 0,0:04:00.24,0:04:01.90,Default,,0000,0000,0000,,How...how could that be?
+Dialogue: 0,0:04:02.29,0:04:05.24,Default,,0000,0000,0000,,Don't worry, I shall redeem you soon enough.
+Dialogue: 0,0:04:07.16,0:04:10.57,Default,,0000,0000,0000,,Prepare yourself, Yuma Tsukumo! You will lose here and now!
+Dialogue: 0,0:04:11.69,0:04:13.36,Default,,0000,0000,0000,,My turn, draw!
+Dialogue: 0,0:04:13.89,0:04:14.61,Default,,0000,0000,0000,,Shoot!
+Dialogue: 0,0:04:14.95,0:04:17.39,Default,,0000,0000,0000,,It's alright! Yuma still has Gogogo Golem!
+Dialogue: 0,0:04:17.63,0:04:19.58,Default,,0000,0000,0000,,I am not that naive!
+Dialogue: 0,0:04:20.41,0:04:23.37,Default,,0000,0000,0000,,I summon OOParts Monster Mud Golem Shakouki!
+Dialogue: 0,0:04:30.34,0:04:34.01,Default,,0000,0000,0000,,You mean Gogogo Golem in defense position won't be destroyed by battle?
+Dialogue: 0,0:04:34.80,0:04:36.40,Default,,0000,0000,0000,,But that's meaningless for me!
+Dialogue: 0,0:04:36.73,0:04:40.65,Default,,0000,0000,0000,,Go, Mud Golem Shakouki! Attack Gogogo Golem!
+Dialogue: 0,0:04:41.69,0:04:43.96,Default,,0000,0000,0000,,Jomon Laser!!
+Dialogue: 0,0:04:44.64,0:04:51.71,Default,,0000,0000,0000,,When this monster attacks a monster in Defense Position, it will inflict piercing damage to the player!
+Dialogue: 0,0:04:57.09,0:05:00.01,Default,,0000,0000,0000,,Then I activate the Quick-Play Magic, Heart of Stone!
+Dialogue: 0,0:05:01.92,0:05:06.62,Default,,0000,0000,0000,,When an OOParts Monster fails to destroy a monster my opponent controls by battle,
+Dialogue: 0,0:05:07.06,0:05:09.74,Default,,0000,0000,0000,,This card allows that monster to attack once again!
+Dialogue: 0,0:05:12.18,0:05:15.37,Default,,0000,0000,0000,,Mud Golem Shakouki, crush Gogogo Golem!
+Dialogue: 0,0:05:16.06,0:05:17.65,Default,,0000,0000,0000,,Jomon Laser!
+Dialogue: 0,0:05:26.31,0:05:27.50,Default,,0000,0000,0000,,Yuma!!
+Dialogue: 0,0:05:28.20,0:05:30.70,Default,,0000,0000,0000,,Now there is nothing left to defend you.
+Dialogue: 0,0:05:32.12,0:05:33.61,Default,,0000,0000,0000,,It's over, Yuma!
+Dialogue: 0,0:05:34.21,0:05:35.76,Default,,0000,0000,0000,,Go, Machu Mach!
+Dialogue: 0,0:05:36.41,0:05:37.36,Default,,0000,0000,0000,,Fire of Vril!
+Dialogue: 0,0:05:40.10,0:05:43.65,Default,,0000,0000,0000,,If he takes that face-on, to summarize, he will be finished!
+Dialogue: 0,0:05:49.42,0:05:50.24,Default,,0000,0000,0000,,Yuma!
+Dialogue: 0,0:05:52.37,0:05:54.39,Default,,0000,0000,0000,,This is... the last of...
+Dialogue: 0,0:05:55.38,0:05:56.58,Default,,0000,0000,0000,,...my strength!
+Dialogue: 0,0:05:57.34,0:05:58.30,Default,,0000,0000,0000,,Remember it!!
+Dialogue: 0,0:05:59.94,0:06:01.37,Default,,0000,0000,0000,,Bring it to 'Em!
+Dialogue: 0,0:06:09.74,0:06:11.79,Default,,0000,0000,0000,,What...what's this?
+Dialogue: 0,0:06:21.21,0:06:22.05,Default,,0000,0000,0000,,This card...
+Dialogue: 0,0:06:26.54,0:06:29.21,Default,,0000,0000,0000,,I special summon Gagaga Gardna!
+Dialogue: 0,0:06:32.12,0:06:32.74,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:06:32.99,0:06:34.44,Default,,0000,0000,0000,,That's right, Yuma-{\i1}kun{\i0}!
+Dialogue: 0,0:06:34.79,0:06:39.87,Default,,0000,0000,0000,,Gagaga Gardna can be special summoned from the hand when the player was attacked directly!
+Dialogue: 0,0:06:45.82,0:06:47.19,Default,,0000,0000,0000,,Yu...Yuma!!
+Dialogue: 0,0:06:50.50,0:06:52.10,Default,,0000,0000,0000,,Impossible... Why?!
+Dialogue: 0,0:06:52.79,0:06:55.25,Default,,0000,0000,0000,,Right, it must be Astral!
+Dialogue: 0,0:06:56.44,0:06:59.50,Default,,0000,0000,0000,,Astral, how dare you obstruct me!
+Dialogue: 0,0:07:13.09,0:07:14.05,Default,,0000,0000,0000,,Astral is...!
+Dialogue: 0,0:07:23.42,0:07:24.51,Default,,0000,0000,0000,,Just disappear!
+Dialogue: 0,0:07:26.80,0:07:32.80,Default,,0000,0000,0000,,Yuma! Don't give up!!
+Dialogue: 0,0:07:44.36,0:07:45.26,Default,,0000,0000,0000,,What's... this?
+Dialogue: 0,0:07:49.12,0:07:51.90,Default,,0000,0000,0000,,Astral!!
+Dialogue: 0,0:07:54.69,0:07:57.90,Default,,0000,0000,0000,,Now no one will be able to save you.
+Dialogue: 0,0:08:05.68,0:08:06.19,Default,,0000,0000,0000,,Yuma!
+Dialogue: 0,0:08:06.19,0:08:07.18,Default,,0000,0000,0000,,Please calm yourself!
+Dialogue: 0,0:08:07.91,0:08:12.98,Default,,0000,0000,0000,,To summarize, this is AR space. Even if Yuma-{\i1}kun{\i0} were to fall by some chance...
+Dialogue: 0,0:08:13.52,0:08:17.19,Default,,0000,0000,0000,,What are you talking about? \NDid you forget {\i1}where{\i0} we are right now?!
+Dialogue: 0,0:08:18.30,0:08:19.85,Default,,0000,0000,0000,,That's right! We are...
+Dialogue: 0,0:08:25.30,0:08:27.95,Default,,0000,0000,0000,,... on the freeway that was built above the sea!
+Dialogue: 0,0:08:29.51,0:08:30.18,Default,,0000,0000,0000,,Yuma-{\i1}kun{\i0}!
+Dialogue: 0,0:08:35.70,0:08:37.56,Default,,0000,0000,0000,,Yuma, get a hold of yourself!
+Dialogue: 0,0:08:38.68,0:08:40.14,Default,,0000,0000,0000,,Why? You guys...
+Dialogue: 0,0:08:42.01,0:08:44.60,Default,,0000,0000,0000,,Isn't that obvious? We're friends!
+Dialogue: 0,0:08:46.23,0:08:47.78,Default,,0000,0000,0000,,Me...and you guys...are friends?
+Dialogue: 0,0:08:48.41,0:08:49.23,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:08:49.75,0:08:50.29,Default,,0000,0000,0000,,Yuma...
+Dialogue: 0,0:08:50.86,0:08:51.79,Default,,0000,0000,0000,,We are...
+Dialogue: 0,0:08:52.44,0:08:54.17,Default,,0000,0000,0000,,...friends!
+Dialogue: 0,0:08:58.08,0:09:01.20,Default,,0000,0000,0000,,Hey, did you forget everything?
+Dialogue: 0,0:09:01.98,0:09:04.38,Default,,0000,0000,0000,,Aren't you a guy who never gives up?
+Dialogue: 0,0:09:07.54,0:09:10.08,Default,,0000,0000,0000,,Regardless of the hardship, you would always stand back up and face them bravely!
+Dialogue: 0,0:09:10.66,0:09:12.96,Default,,0000,0000,0000,,The Yuma I know is someone like that!
+Dialogue: 0,0:09:15.55,0:09:18.22,Default,,0000,0000,0000,,I am very brave...\N...and you guys are my friends?
+Dialogue: 0,0:09:19.84,0:09:21.14,Default,,0000,0000,0000,,This little farce ends now.
+Dialogue: 0,0:09:22.24,0:09:24.78,Default,,0000,0000,0000,,I forgot you guys are here as well.
+Dialogue: 0,0:09:42.79,0:09:43.32,Default,,0000,0000,0000,,Cat?!
+Dialogue: 0,0:09:51.25,0:09:54.83,Default,,0000,0000,0000,,Yuma, I will seize everything from you!
+Dialogue: 0,0:10:00.96,0:10:04.86,Default,,0000,0000,0000,,It' useless, as long as you guys stay inside that place, he cannot hear you!
+Dialogue: 0,0:10:05.32,0:10:09.19,Default,,0000,0000,0000,,Darn! Our voices can't reach him, and Astral isn't here either!
+Dialogue: 0,0:10:12.20,0:10:12.85,Default,,0000,0000,0000,,Yuma...
+Dialogue: 0,0:10:23.53,0:10:25.82,Default,,0000,0000,0000,,I can't believe he would use something this despicable...
+Dialogue: 0,0:10:26.85,0:10:30.20,Default,,0000,0000,0000,,It'll be no good to fight {\i1}that{\i0} power all alone right now.
+Dialogue: 0,0:10:45.01,0:10:50.12,Default,,0000,0000,0000,,Yuma! Don't forget the most important thing!
+Dialogue: 0,0:11:01.03,0:11:01.52,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:11:11.48,0:11:12.94,Default,,0000,0000,0000,,{\i1}Remember it, Yuma!
+Dialogue: 0,0:11:13.65,0:11:14.78,Default,,0000,0000,0000,,{\i1}The thing I have taught you!
+Dialogue: 0,0:11:24.10,0:11:24.62,Default,,0000,0000,0000,,I'll...
+Dialogue: 0,0:11:34.18,0:11:34.99,Default,,0000,0000,0000,,I'll bring...
+Dialogue: 0,0:11:45.12,0:11:46.11,Default,,0000,0000,0000,,I'll bring it...
+Dialogue: 0,0:11:48.18,0:11:48.86,Default,,0000,0000,0000,,Yuma!
+Dialogue: 0,0:11:49.72,0:11:50.49,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:12:04.16,0:12:05.03,Default,,0000,0000,0000,,{\i1}Remember it...
+Dialogue: 0,0:12:06.56,0:12:07.92,Default,,0000,0000,0000,,{\i1}...the thing I have taught you!
+Dialogue: 0,0:12:08.95,0:12:09.65,Default,,0000,0000,0000,,That's right...
+Dialogue: 0,0:12:11.03,0:12:12.26,Default,,0000,0000,0000,,...the thing I have forgotten is...
+Dialogue: 0,0:12:16.74,0:12:20.43,Default,,0000,0000,0000,,I'll Bring it to 'Em!
+Dialogue: 0,0:12:26.47,0:12:27.32,Default,,0000,0000,0000,,Yuma's...!
+Dialogue: 0,0:12:32.52,0:12:33.70,Default,,0000,0000,0000,,That's... impossible!
+Dialogue: 0,0:12:34.81,0:12:37.12,Default,,0000,0000,0000,,The power of Tron's Crest was negated?!
+Dialogue: 0,0:12:37.97,0:12:38.63,Default,,0000,0000,0000,,III!
+Dialogue: 0,0:12:39.30,0:12:41.57,Default,,0000,0000,0000,,I can't believe you would use that Crest Power this far!
+Dialogue: 0,0:12:42.43,0:12:45.98,Default,,0000,0000,0000,,Shut up! I will send you to where Astral is!
+Dialogue: 0,0:12:47.27,0:12:48.00,Default,,0000,0000,0000,,Astral?
+Dialogue: 0,0:12:50.44,0:12:51.31,Default,,0000,0000,0000,,Astral!
+Dialogue: 0,0:12:53.09,0:12:54.33,Default,,0000,0000,0000,,Where is Astral!?
+Dialogue: 0,0:12:55.09,0:12:57.32,Default,,0000,0000,0000,,Unfortunately, Astral no longer exists.
+Dialogue: 0,0:12:58.22,0:12:59.28,Default,,0000,0000,0000,,What do you mean?!
+Dialogue: 0,0:12:59.97,0:13:03.10,Default,,0000,0000,0000,,Just as I said. Astral was eliminated.
+Dialogue: 0,0:13:03.49,0:13:04.51,Default,,0000,0000,0000,,What did you say?
+Dialogue: 0,0:13:08.95,0:13:09.71,Default,,0000,0000,0000,,You're lying...
+Dialogue: 0,0:13:10.49,0:13:13.56,Default,,0000,0000,0000,,You should have seen it as well...\Nthe moment he was exterminated.
+Dialogue: 0,0:13:24.23,0:13:24.75,Default,,0000,0000,0000,,It's a lie...
+Dialogue: 0,0:13:26.08,0:13:26.60,Default,,0000,0000,0000,,It's a lie!
+Dialogue: 0,0:13:27.03,0:13:28.24,Default,,0000,0000,0000,,It's a lie!!
+Dialogue: 0,0:13:28.85,0:13:31.33,Default,,0000,0000,0000,,That guy...he wouldn't leave me like this!
+Dialogue: 0,0:13:31.79,0:13:33.62,Default,,0000,0000,0000,,Hey, Kotori! Tetsuo!
+Dialogue: 0,0:13:41.08,0:13:42.79,Default,,0000,0000,0000,,Kotori... how can this be!?
+Dialogue: 0,0:13:43.34,0:13:44.88,Default,,0000,0000,0000,,You just can't accept it!
+Dialogue: 0,0:13:45.58,0:13:48.42,Default,,0000,0000,0000,,Astral was destroyed by the power of my Crest.
+Dialogue: 0,0:13:50.49,0:13:51.39,Default,,0000,0000,0000,,Astral...
+Dialogue: 0,0:13:57.14,0:14:01.15,Default,,0000,0000,0000,,I desire to protect my family. I will use whatever it takes to accomplish that!
+Dialogue: 0,0:14:01.50,0:14:03.19,Default,,0000,0000,0000,,Now, let's continue the duel!
+Dialogue: 0,0:14:03.85,0:14:07.71,Default,,0000,0000,0000,,I activate the effect of the Field Magic, OOParts City Babylon!
+Dialogue: 0,0:14:08.28,0:14:11.89,Default,,0000,0000,0000,,By banishing the OOParts Monster Aztec Mask Golem from my graveyard,
+Dialogue: 0,0:14:12.42,0:14:16.21,Default,,0000,0000,0000,,I special summon Cabrera's Catapult with the same level from there in Defense Position!
+Dialogue: 0,0:14:18.53,0:14:20.05,Default,,0000,0000,0000,,I will end my turn like this!
+Dialogue: 0,0:14:20.87,0:14:23.29,Default,,0000,0000,0000,,Yuma, you only have 400 Life left.
+Dialogue: 0,0:14:24.10,0:14:29.23,Default,,0000,0000,0000,,But I have Cabrera's Catapult and No. 33 Machu Mach on my field.
+Dialogue: 0,0:14:30.89,0:14:33.03,Default,,0000,0000,0000,,You have no chance of winning!
+Dialogue: 0,0:14:33.68,0:14:37.50,Default,,0000,0000,0000,,Alright, submit along with your 'Bring it to 'Em'!
+Dialogue: 0,0:14:39.73,0:14:40.52,Default,,0000,0000,0000,,Unforgivable...
+Dialogue: 0,0:14:41.99,0:14:42.55,Default,,0000,0000,0000,,III...
+Dialogue: 0,0:14:43.10,0:14:44.77,Default,,0000,0000,0000,,...absolutely unforgivable!
+Dialogue: 0,0:14:47.61,0:14:49.67,Default,,0000,0000,0000,,I'll Bring it to 'Em!
+Dialogue: 0,0:14:50.22,0:14:51.44,Default,,0000,0000,0000,,Draw!
+Dialogue: 0,0:14:52.10,0:14:53.67,Default,,0000,0000,0000,,{\i1}Think well... Yuma.
+Dialogue: 0,0:14:55.46,0:14:56.99,Default,,0000,0000,0000,,{\i1}Now... what should you do?
+Dialogue: 0,0:14:58.27,0:15:01.69,Default,,0000,0000,0000,,{\i1}That's right, that guy still lives within my heart!
+Dialogue: 0,0:15:02.78,0:15:04.74,Default,,0000,0000,0000,,{\i1}Remember, remember it!
+Dialogue: 0,0:15:05.52,0:15:07.34,Default,,0000,0000,0000,,{\i1}Every sentence he ever said!
+Dialogue: 0,0:15:09.36,0:15:12.75,Default,,0000,0000,0000,,{\i1}Yuma, I will teach you the knowledge of dueling...
+Dialogue: 0,0:15:13.12,0:15:15.70,Default,,0000,0000,0000,,{\i1}Huh? Why would I let you teach me?
+Dialogue: 0,0:15:15.97,0:15:18.93,Default,,0000,0000,0000,,{\i1}Because, one day, you will have to battle alone.
+Dialogue: 0,0:15:19.24,0:15:20.25,Default,,0000,0000,0000,,{\i1}Me, alone?
+Dialogue: 0,0:15:20.54,0:15:23.50,Default,,0000,0000,0000,,{\i1}That's right. I have no idea when will I vanish...
+Dialogue: 0,0:15:24.21,0:15:28.71,Default,,0000,0000,0000,,{\i1}But you have a future and infinite possibilities.
+Dialogue: 0,0:15:29.63,0:15:33.13,Default,,0000,0000,0000,,{\i1}Thus I wish to leave behind the proof of my existence...
+Dialogue: 0,0:15:33.77,0:15:35.20,Default,,0000,0000,0000,,{\i1}...within your memory.
+Dialogue: 0,0:15:36.55,0:15:39.86,Default,,0000,0000,0000,,{\i1}For his sake as well, I definitely won't give up!
+Dialogue: 0,0:15:40.45,0:15:44.32,Default,,0000,0000,0000,,{\i1}First is the opponent's motive, no matter what kinds of strong decks they constructed.
+Dialogue: 0,0:15:45.00,0:15:48.59,Default,,0000,0000,0000,,{\i1}As long as they fall into the pace you set, they cannot dominate the duel.
+Dialogue: 0,0:15:49.60,0:15:53.50,Default,,0000,0000,0000,,{\i1}III's motive is the combo of Cabrera's Catapult and Machu Mach.
+Dialogue: 0,0:15:54.10,0:15:55.71,Default,,0000,0000,0000,,{\i1}If that connects, I would lose!
+Dialogue: 0,0:15:57.46,0:16:00.35,Default,,0000,0000,0000,,{\i1}See through your opponent's motive, and stop it!
+Dialogue: 0,0:16:01.34,0:16:05.85,Default,,0000,0000,0000,,{\i1}Which means I have to destroy Cabrera's Catapult or Machu Mach!
+Dialogue: 0,0:16:10.36,0:16:14.36,Default,,0000,0000,0000,,{\i1}This is...\NRight, is this what you left for me?
+Dialogue: 0,0:16:17.28,0:16:18.66,Default,,0000,0000,0000,,{\i1}Then just follow your own style...
+Dialogue: 0,0:16:20.34,0:16:22.04,Default,,0000,0000,0000,,{\i1}...and 'Bring it to 'Em!
+Dialogue: 0,0:16:28.72,0:16:30.40,Default,,0000,0000,0000,,Here I go, Astral!
+Dialogue: 0,0:16:31.62,0:16:36.97,Default,,0000,0000,0000,,The memory of fighting with you will become my flesh - and my blood!
+Dialogue: 0,0:16:37.61,0:16:41.71,Default,,0000,0000,0000,,I activate the Equipment Magic, Gagaga Revenge!
+Dialogue: 0,0:16:46.29,0:16:51.26,Default,,0000,0000,0000,,This card can revive a Gagaga monster in my graveyard, and equip to that monster!
+Dialogue: 0,0:16:52.15,0:16:54.46,Default,,0000,0000,0000,,Revive, Gagaga Magician!
+Dialogue: 0,0:16:59.15,0:17:01.65,Default,,0000,0000,0000,,Then I summon Fulelf!
+Dialogue: 0,0:17:04.01,0:17:07.92,Default,,0000,0000,0000,,Once per turn, by sending one Monster from my hand to the graveyard,
+Dialogue: 0,0:17:08.39,0:17:11.62,Default,,0000,0000,0000,,Fulelf can add that monster's LV to its own!
+Dialogue: 0,0:17:15.53,0:17:20.43,Default,,0000,0000,0000,,I send LV2 Overlay Eater to the graveyard, and increase Fulelf's LV to 4!
+Dialogue: 0,0:17:22.31,0:17:23.59,Default,,0000,0000,0000,,Don't... don't tell me...
+Dialogue: 0,0:17:24.16,0:17:29.12,Default,,0000,0000,0000,,I overlay the LV 4 Gagaga Magician and Fulelf!
+Dialogue: 0,0:17:30.19,0:17:33.85,Default,,0000,0000,0000,,I build the Overlay Network with these 2 monsters!
+Dialogue: 0,0:17:34.38,0:17:35.66,Default,,0000,0000,0000,,Xyz summon!
+Dialogue: 0,0:17:37.65,0:17:40.22,Default,,0000,0000,0000,,Come forth, No.39!
+Dialogue: 0,0:17:44.45,0:17:46.68,Default,,0000,0000,0000,,Aspiring Emperor - Hope!!
+Dialogue: 0,0:17:50.21,0:17:50.96,Default,,0000,0000,0000,,How is that possible?
+Dialogue: 0,0:17:51.86,0:17:55.04,Default,,0000,0000,0000,,This is the last "hope" which Astral has left to me!
+Dialogue: 0,0:17:55.24,0:17:56.29,Default,,0000,0000,0000,,Hope, you say?
+Dialogue: 0,0:17:56.94,0:17:58.97,Default,,0000,0000,0000,,Don't tell me you still think such a thing exists?
+Dialogue: 0,0:17:59.06,0:18:00.22,Default,,0000,0000,0000,,Sure! Of course!
+Dialogue: 0,0:18:00.46,0:18:04.42,Default,,0000,0000,0000,,The imperishable Flame of Hope within my heart!
+Dialogue: 0,0:18:04.93,0:18:08.19,Default,,0000,0000,0000,,That is the 'Bring it to 'Em which Astral has left to me!
+Dialogue: 0,0:18:10.06,0:18:12.50,Default,,0000,0000,0000,,Yuma!!
+Dialogue: 0,0:18:12.64,0:18:16.29,Default,,0000,0000,0000,,I activate the effect of the Equipment Magic Gagaga Revenge!
+Dialogue: 0,0:18:17.44,0:18:20.18,Default,,0000,0000,0000,,When the equipped monster becomes a Xyz material,
+Dialogue: 0,0:18:20.53,0:18:24.64,Default,,0000,0000,0000,,that Xyz monster gains 300 ATK!
+Dialogue: 0,0:18:26.75,0:18:30.51,Default,,0000,0000,0000,,Go, Aspiring Emperor - Hope, attack Machu Mach!
+Dialogue: 0,0:18:31.15,0:18:34.54,Default,,0000,0000,0000,,Hope Sword Twin Blade Shoot!
+Dialogue: 0,0:18:41.02,0:18:42.92,Default,,0000,0000,0000,,Bring it to 'Em!
+Dialogue: 0,0:18:45.06,0:18:45.60,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:18:57.16,0:18:59.67,Default,,0000,0000,0000,,Even without Astral...what's going on here?
+Dialogue: 0,0:19:00.41,0:19:01.50,Default,,0000,0000,0000,,Here's the reason!
+Dialogue: 0,0:19:02.26,0:19:04.17,Default,,0000,0000,0000,,This is the power of Astral and me!
+Dialogue: 0,0:19:04.95,0:19:06.74,Default,,0000,0000,0000,,I will end my turn like this!
+Dialogue: 0,0:19:07.13,0:19:10.25,Default,,0000,0000,0000,,Unforgivable...unforgivable, Yuma!
+Dialogue: 0,0:19:11.03,0:19:12.88,Default,,0000,0000,0000,,Come at me, III!
+Dialogue: 0,0:19:13.47,0:19:15.69,Default,,0000,0000,0000,,My power isn't just Machu Mach!
+Dialogue: 0,0:19:17.83,0:19:20.48,Default,,0000,0000,0000,,My turn, draw!
+Dialogue: 0,0:19:21.11,0:19:27.26,Default,,0000,0000,0000,,I release Cabrera's Catapult to advance summon the OOParts monster Sol Monolith!
+Dialogue: 0,0:19:32.30,0:19:38.35,Default,,0000,0000,0000,,When Sol Monolith was successfully summoned, it can change the LV of other monsters on my field to six!
+Dialogue: 0,0:19:38.98,0:19:41.61,Default,,0000,0000,0000,,I change Mud Golem Shakouki's level to six!
+Dialogue: 0,0:19:45.96,0:19:50.52,Default,,0000,0000,0000,,I Overlay my LV 6 Sol Monolith and Mud Golem Shakouki!
+Dialogue: 0,0:19:54.21,0:19:57.92,Default,,0000,0000,0000,,I build the Overlay Network with these 2 monsters!
+Dialogue: 0,0:19:58.95,0:20:00.37,Default,,0000,0000,0000,,Xyz Summon!
+Dialogue: 0,0:20:01.01,0:20:05.29,Default,,0000,0000,0000,,See for yourself. This is the new power I obtained from Tron!
+Dialogue: 0,0:20:05.63,0:20:07.76,Default,,0000,0000,0000,,Come forth, Number 6!
+Dialogue: 0,0:20:30.15,0:20:32.71,Default,,0000,0000,0000,,OOParts Monster...Atlantal!
+Dialogue: 0,0:20:35.03,0:20:36.60,Default,,0000,0000,0000,,A new Number...
+Dialogue: 0,0:20:37.19,0:20:39.12,Default,,0000,0000,0000,,I activate Atlantal's effect!
+Dialogue: 0,0:20:39.96,0:20:45.56,Default,,0000,0000,0000,,When this card is Xyz summoned successfully, it can equip a Number in my graveyard!
+Dialogue: 0,0:20:48.23,0:20:50.05,Default,,0000,0000,0000,,You want to equip Machu Mach?
+Dialogue: 0,0:21:01.73,0:21:03.32,Default,,0000,0000,0000,,Its ATK became 5000?!
+Dialogue: 0,0:21:03.77,0:21:06.34,Default,,0000,0000,0000,,It gained Machu Mach's ATK?!
+Dialogue: 0,0:21:08.03,0:21:10.30,Default,,0000,0000,0000,,Atlantal, attack Hope!
+Dialogue: 0,0:21:13.17,0:21:15.40,Default,,0000,0000,0000,,Divine Punishment!!
+Dialogue: 0,0:21:17.13,0:21:21.29,Default,,0000,0000,0000,,Dream on! I activate Hope's effect!
+Dialogue: 0,0:21:22.88,0:21:23.98,Default,,0000,0000,0000,,Moon Barrier!
+Dialogue: 0,0:21:27.96,0:21:28.55,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:21:29.18,0:21:32.54,Default,,0000,0000,0000,,It's not over yet! Atlantal's power isn't just this!
+Dialogue: 0,0:21:33.38,0:21:35.21,Default,,0000,0000,0000,,I activate Atlantal's effect!
+Dialogue: 0,0:21:35.67,0:21:40.40,Default,,0000,0000,0000,,By detaching one Overlay Unit, it halves my opponent's LP!
+Dialogue: 0,0:21:41.11,0:21:42.64,Default,,0000,0000,0000,,Orichalcum Gate!
+Dialogue: 0,0:21:51.71,0:21:52.46,Default,,0000,0000,0000,,Yuma!
+Dialogue: 0,0:21:58.70,0:22:00.70,Default,,0000,0000,0000,,This time, I will definitely give you a fatal blow!
+Dialogue: 0,0:22:01.88,0:22:04.41,Default,,0000,0000,0000,,I...I won't let you do that!
+Dialogue: 0,0:22:10.65,0:22:14.12,Default,,0000,0000,0000,,I won't let you do that! I definitely won't give up!
+Dialogue: 0,0:22:14.70,0:22:18.78,Default,,0000,0000,0000,,That's Astral's and mine 'Bring it to 'Em'!
+Dialogue: 0,0:22:30.08,0:22:33.25,Default,,0000,0000,0000,,{\i1}Someone gave me some water.
+Dialogue: 0,0:22:33.62,0:22:39.17,Default,,0000,0000,0000,,{\i1}So I was able to paint a rainbow with ease.
+Dialogue: 0,0:22:40.30,0:22:45.09,Default,,0000,0000,0000,,{\i1}I want to become someone perfect.
+Dialogue: 0,0:22:45.88,0:22:48.14,Default,,0000,0000,0000,,{\i1}But it's very difficult.
+Dialogue: 0,0:22:49.26,0:22:51.72,Default,,0000,0000,0000,,{\i1}Even with me suffering,
+Dialogue: 0,0:22:51.85,0:22:55.81,Default,,0000,0000,0000,,{\i1}I can't seem to grasp victory.
+Dialogue: 0,0:22:56.69,0:22:58.61,Default,,0000,0000,0000,,{\i1}I want to bloom!
+Dialogue: 0,0:22:59.15,0:23:03.07,Default,,0000,0000,0000,,{\i1}I must be having some kind of weird dream.
+Dialogue: 0,0:23:03.07,0:23:06.11,Default,,0000,0000,0000,,{\i1}But If I must fulfill this,
+Dialogue: 0,0:23:06.61,0:23:09.41,Default,,0000,0000,0000,,{\i1}Then I don't mind being laughed at for it.
+Dialogue: 0,0:23:09.57,0:23:16.50,Default,,0000,0000,0000,,{\i1}Since it's because your limits are decided on your own.
+Dialogue: 0,0:23:16.79,0:23:19.54,Default,,0000,0000,0000,,{\i1}I'll show it, overcoming it to tomorrow.
+Dialogue: 0,0:23:19.79,0:23:24.01,Default,,0000,0000,0000,,{\i1}Ah, I'm aiming for the big blue sky.
+Dialogue: 0,0:23:24.21,0:23:25.94,Default,,0000,0000,0000,,{\i1}For all of its glory.
+Dialogue: 0,0:23:25.94,0:23:27.76,Default,,0000,0000,0000,,{\i1}The Freesia of Desire.
+Dialogue: 0,0:23:29.52,0:23:33.14,Default,,0000,0000,0000,,{\i1}All of those countless flower petals
+Dialogue: 0,0:23:33.35,0:23:36.18,Default,,0000,0000,0000,,{\i1}They came at the expense of
+Dialogue: 0,0:23:37.02,0:23:39.77,Default,,0000,0000,0000,,{\i1}me being able to reach those heights.
+Dialogue: 0,0:23:40.13,0:23:44.19,Default,,0000,0000,0000,,{\i1}Ah, even though I lost my way today,
+Dialogue: 0,0:23:44.36,0:23:46.03,Default,,0000,0000,0000,,{\i1}I still yearn for it.
+Dialogue: 0,0:23:46.03,0:23:48.32,Default,,0000,0000,0000,,{\i1}That Freesia of Desire.
+Dialogue: 0,0:23:51.04,0:23:56.30,Default,,0000,0000,0000,,III's new Number, Atlantal, with its overwhelming power, was striking at me relentlessly.
+Dialogue: 0,0:23:57.04,0:24:00.18,Default,,0000,0000,0000,,However during the midst of battle, the duel has progressed to an unexpected direction!
+Dialogue: 0,0:24:00.87,0:24:03.02,Default,,0000,0000,0000,,This is no longer AR! It's reality!!
+Dialogue: 0,0:24:03.81,0:24:04.67,Default,,0000,0000,0000,,If this continues...
+Dialogue: 0,0:24:06.28,0:24:07.56,Default,,0000,0000,0000,,I won't give up!
+Dialogue: 0,0:24:08.18,0:24:11.70,Default,,0000,0000,0000,,Even if Astral has vanished, he still lives inside my heart!!
+Dialogue: 0,0:24:12.36,0:24:13.87,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh! ZeXal!
+Dialogue: 0,0:24:14.20,0:24:16.92,Default,,0000,0000,0000,,"The End of a Fierce Fight! \NHope Ray VS Atlanthal"
+Dialogue: 0,0:24:17.43,0:24:19.48,Default,,0000,0000,0000,,I'll bring it to 'em supersized!
+Dialogue: 0,0:24:21.42,0:24:24.39,Default,,0000,0000,0000,,Today I will introduce the Monster Brass Devil Mellowmellow Melody.
+Dialogue: 0,0:24:24.50,0:24:25.99,Default,,0000,0000,0000,,With its effect, you can eat a melon!
+Dialogue: 0,0:24:26.15,0:24:31.11,Default,,0000,0000,0000,,Brass Devil Mellowmellow Melody: By detaching a Xyz-Material, it can attack once again.
+Dialogue: 0,0:24:31.28,0:24:32.43,Default,,0000,0000,0000,,So, where is my melon?
+Dialogue: 0,0:24:32.53,0:24:33.73,Default,,0000,0000,0000,,Cut it out already.
+Dialogue: 0,0:24:34.01,0:24:34.26,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,
